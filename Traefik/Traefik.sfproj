@@ -28,6 +28,7 @@
     <None Include="Scripts\Get-TraefikBinary.ps1" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ApplicationPackageRoot\TraefikPkg\Code\config.toml.tmpl" />
     <Content Include="ApplicationPackageRoot\TraefikPkg\Code\traefik.exe" />
     <Content Include="ApplicationPackageRoot\TraefikPkg\Config\Settings.xml" />
     <Content Include="ApplicationPackageRoot\TraefikPkg\Code\traefik.toml" />
